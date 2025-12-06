@@ -1,5 +1,4 @@
 https://aio.zxcvbn.fyi/r/repo.feather.json
-https://aio.zxcvbn.fyi/r/repo.feather.json
 https://alt.crystall1ne.dev
 https://alt.getutm.app
 https://alt.thatstel.la
