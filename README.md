@@ -1,3 +1,5 @@
+> [!WARNING]
+> Currently the domain **gocciola.xyz is expired** and does not work anymore. If you want to join my Discord server for support, you can [join here](https://discord.gg/zqdtWqKtXY).
 # 🗄️ Repo Installer++
 Repo Installer++ is an source adder (or repo adder) where you can import more than **80 repositories** into your favorite signers with ease! (that's more than 15k apps!) 😎
 
